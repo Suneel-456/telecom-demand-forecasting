@@ -1,0 +1,6 @@
+model,MAPE,RMSE,MAE,MAPE_holiday_days
+Prophet (holiday + promo),1.88,2.87,2.37,1.35
+XGBoost,2.21,4.38,2.94,8.47
+"SARIMA(1,1,1)(0,1,1,7)",2.59,5.0,3.35,17.52
+LSTM,2.66,4.77,3.41,14.01
+Seasonal naive (lag_7),3.11,6.37,4.06,18.1

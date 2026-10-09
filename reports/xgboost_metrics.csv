@@ -1,0 +1,3 @@
+model,MAPE,RMSE,MAE,MAPE_holiday_days
+Seasonal naive (lag_7),3.11,6.37,4.06,18.1
+XGBoost,2.21,4.38,2.94,8.47

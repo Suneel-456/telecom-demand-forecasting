@@ -1,0 +1,2 @@
+model,MAPE,RMSE,MAE,MAPE_holiday_days
+LSTM,2.66,4.77,3.41,14.01
